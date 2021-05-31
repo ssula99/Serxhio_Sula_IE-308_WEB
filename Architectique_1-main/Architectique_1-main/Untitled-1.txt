@@ -1,0 +1,16 @@
+
+
+//Links
+
+<?php echo base_url(); ?>index.php/
+
+
+
+//img
+
+<?php echo base_url(); ?>assets/
+
+
+//header
+
+<?php $this->load->view('template/header'); ?>
